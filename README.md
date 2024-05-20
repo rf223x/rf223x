@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rf223x
-- 👀 I’m interested in ML Applications to solve energy poverty
+- 👀 I’m interested in ML Applications for resolving energy poverty
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 💞️ I’m looking to collaborate on morally sound missions
 - 📫 How to reach me : Discord x223556
