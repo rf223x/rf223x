@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 💞️ I’m looking to collaborate on morally sound missions
 - 📫 How to reach me : Discord x223556
-- 🔑“Through discipline comes freedom.” - Aristotle
+- 🔑 “Through discipline comes freedom.” - Aristotle
 
 <!---
 rf223x/rf223x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
