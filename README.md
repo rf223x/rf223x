@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rf223x
 - 👀 I’m interested in ML Applications for resolving energy poverty
 - 🌱 I’m currently learning PyTorch and TensorFlow
-- 💞️ I’m looking to collaborate on morally sound missions
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me : Discord x223556
 - 🔑 “Through discipline comes freedom.” - Aristotle
 
