@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rf223x
-- 👀 I’m interested in ML Research, Quantitative Finance, and Algo Trading
+- 👀 I’m interested in ML Research, Quantitative Finance, and Algorithmic Trading
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 🔬 I'm doing research related to Natural Language Processing (NLP)
-- 👨‍👩‍👧‍👦 I'm currently focused on Multi-Agent Systems
+- 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading
 - 💞️ I’m looking to collaborate on ML and/or Quant projects
 - 📫 How to reach me : Discord x223556
 - 🔑 “Through discipline comes freedom.” - Aristotle
