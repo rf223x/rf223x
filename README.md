@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML Research, Quantitative Finance, and Algorithmic Trading
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 🔬 I'm doing research related to Energy Efficiency
-- 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading
+- 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading (personal interest)
 - 💞️ I’m looking to collaborate on ML and/or Quant projects
 - 📫 How to reach me : Discord x223556
 - 🔑 “Through discipline comes freedom.” - Aristotle
