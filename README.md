@@ -4,7 +4,7 @@
 - 🔬 I'm doing research related to Energy Efficiency
 - 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading (personal interest)
 - 💞️ I’m looking to collaborate on ML and/or Quant projects
-- 📫 How to reach me : Discord x223556
+- 📫 How to reach me : Discord rf223x
 - 🔑 “Through discipline comes freedom.” - Aristotle
 
 <!---
