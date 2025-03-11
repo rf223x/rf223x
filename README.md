@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 🔬 I'm doing research related to Energy Efficiency
 - 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading (personal interest)
-- 💞️ I’m looking to collaborate on ML and/or Quant projects
+- 💞️ I’m looking to collaborate on OSS, ML and/or Quant projects
 - 📫 How to reach me : Discord rf223x
 - 🔑 “Through discipline comes freedom.” - Aristotle
 
