@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rf223x
-- 👀 I’m interested in ML Research, Quantitative Finance, and Algorithmic Trading
+- 👀 I’m interested in Prediction Markets, Quantitative Finance, and Algorithmic Trading
 - 🌱 I’m currently learning PyTorch and TensorFlow
 - 🔬 I'm doing research related to Energy Efficiency
 - 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading (personal interest)
