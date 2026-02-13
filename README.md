@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @rf223x
-- 👀 I’m interested in Prediction Markets, Quantitative Finance, and Algorithmic Trading
-- 🌱 I’m currently learning PyTorch and TensorFlow
-- 🔬 I'm doing research related to Energy Efficiency
-- 👨‍👩‍👧‍👦 I'm currently focused on Algo Trading (personal interest)
-- 💞️ I’m looking to collaborate on OSS, ML and/or Quant projects
-- 📫 How to reach me : Discord rf223x
-- 🔑 “Through discipline comes freedom.” - Aristotle
+              _
+                     /#\
+                    /###\     /\
+                   /  ###\   /##\  /\
+                  /      #\ /####\/##\
+                 /  /      /   # /  ##\             _       /\
+               // //  /\  /    _/  /  #\ _         /#\    _/##\    /\
+              // /   /  \     /   /    #\ \      _/###\_ /   ##\__/ _\
+             /  \   / .. \   / /   _   { \ \   _/       / //    /    \\
+     /\     /    /\  ...  \_/   / / \   } \ | /  /\  \ /  _    /  /    \ /\
+  _ /  \  /// / .\  ..%:.  /... /\ . \ {:  \\   /. \     / \  /   ___   /  \
+ /.\ .\.\// \/... \.::::..... _/..\ ..\:|:. .  / .. \\  /.. \    /...\ /  \ \
+/...\.../..:.\. ..:::::::..:..... . ...\{:... / %... \\/..%. \  /./:..\__   \
+ .:..\:..:::....:::;;;;;;::::::::.:::::.\}.....::%.:. \ .:::. \/.%:::.:..\
+::::...:::;;:::::;;;;;;;;;;;;;;:::::;;::{:::::::;;;:..  .:;:... ::;;::::..
+;;;;:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;];;;;;;;;;;::::::;;;;:.::;;;;;;;;:..
+;;;;;;;;;;;;;;ii;;;;;;;;;;;;;;;;;;;;;;;;[;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;iiiiiiii;;;;;;;;;;;;;;};;ii;;iiii;;;;i;;;;;;;;;;;;;;;ii;;;
+iiii;;;iiiiiiiiiiIIIIIIIIIIIiiiiiIiiiiii{iiIIiiiiiiiiiiiiiiii;;;;;iiiilliiiii
+IIIiiIIllllllIIlllIIIIlllIIIlIiiIIIIIIIIIIIIlIIIIIllIIIIIIIIiiiiiiiillIIIllII
+IIIiiilIIIIIIIllTIIIIllIIlIlIIITTTTlIlIlIIIlIITTTTTTTIIIIlIIllIlIlllIIIIIIITT
+IIIIilIIIIITTTTTTTIIIIIIIIIIIIITTTTTIIIIIIIIITTTTTTTTTTIIIIIIIIIlIIIIIIIITTTT
+IIIIIIIIITTTTTTTTTTTTTIIIIIIIITTTTTTTTIIIIIITTTTTTTTTTTTTTIIIIIIIIIIIIIITTTTT
 
 <!---
 rf223x/rf223x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
